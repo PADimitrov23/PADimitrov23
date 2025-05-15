@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PADimitrov23
 
-- 🌱 I’m currently learning C++, CSS, HTML, JS, GDscript;
+- 🌱 I’m currently learning C++, CSS, HTML, JS, Blueprints;
 - 📫 How to reach me: ↙↙
 -  🤳outlook: PADimitrov23@codingburgas.bg;
 
